@@ -1,6 +1,6 @@
 {
   "name": "@nieznamjs/npm-publish-example",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
