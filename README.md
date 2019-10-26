@@ -1,6 +1,6 @@
 # NPM Publish Example
 
-https://nieznamjs.pl/publikowanie-wlasnej-biblioteki-napisanej-w-typescript-na-npm
+https://nieznamjs.pl/jak-opublikowac-wlasna-biblioteke-npm/
 
 ## Docs
 
